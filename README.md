@@ -1,1 +1,1 @@
-# rust-network-scanner
+# Rust Network Scanner
